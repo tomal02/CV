@@ -1,15 +1,16 @@
 # CV
 
-## Your Name
+## Tom Lee
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
+I'm a tech enthusiast and an aspiring full-stack software developer from the UK. Looking for a role where I can contribute and further develop my skillset.
 
 ## Projects
 
-| Name                         | Description       | Tech/tools        |
-| ---------------------------- | ----------------- | ----------------- |
-| **Final project**            | A webapp to do x. | React, Jest, etc. |
-| **Something else worked on** | A webapp to do y. | Ruby              |
+| Name             | Description                                                         | Tech/tools     |
+| ---------------- | ------------------------------------------------------------------- | -------------- |
+| **Kusari**       | A webapp to help users track crypto wallets, and the tokens within. | React & Django |
+| **IOBook**       | A social networking web-app for programmers.                        | Rails,         |
+| **Eternal Note** | A note taking webapp.                                               | JavaScript     |
 
 ## Work Experience
 
