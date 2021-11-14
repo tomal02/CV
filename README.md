@@ -14,15 +14,11 @@ I'm a tech enthusiast and an aspiring full-stack software developer from the UK.
 
 ## Work Experience
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+**Waitrose & Partners** (start-date to end-date)  
+_Supermarket Assistant_
 
-- Any experience, including roles and responsibilities and results achived in bullet point format.
-
-**Company Name** (start-date to end-date)  
-_Your job title_
-
-- Any experience relevent to software development
+- Worked on day shift for two years.
+- Worked on night shift for one year.
 
 ## Skills
 
