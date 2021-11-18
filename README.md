@@ -27,24 +27,10 @@ _Supermarket Assistant_
 - Maintained a loyal clientele through customer satisfaction and excellent customer service
 - Transitioned to nightshift to ensure store kept up in busy trading periods
 
-## Skills
-
-Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
-(Using a STAR example Paragraph) Consider the questions below.
-
--STAR
--What was the situation/task? (ST)
-
--How was the skill used?
-
--What did you do? (action)
-
--What was the result?
-
-#### Technical Skills
+## Technical Skills
 
 - Languages: JavaScript/HTML/CSS, Ruby, SQL, Python, Java
-- Framworks and Libraries: Node.js, React.js, Rails, RSpec, Capybara
+- Framworks and Libraries: Node.js, React.js, Rails, RSpec, Capybara, Django
 - Tools: Git, MacOS/Windows, AWS(Amplify), Heroku, CI/CD
 
 ## Education
