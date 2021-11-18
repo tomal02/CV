@@ -41,20 +41,11 @@ Consider skills relevent to software development. Then consider your best skills
 
 -What was the result?
 
-#### This Skill
+#### Technical Skills
 
-- Experience
-- Achievements
-- Evidence (STAR)
-
-#### Another Skill
-
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed (again use STAR for this)
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+- Languages: JavaScript/HTML/CSS, Ruby, SQL, Python, Java
+- Framworks and Libraries: Node.js, React.js, Rails, RSpec, Capybara
+- Tools: Git, MacOS/Windows, AWS(Amplify), Heroku, CI/CD
 
 ## Education
 
@@ -68,9 +59,10 @@ Graduated one of the most well regarded bootcamps in the UK. Makers propelled my
 - BTEC Engineering
 - A-level Psychology (1 year)
 
-#### Any other qualifications
+#### Other courses/qualifications
 
-That in some arguable way make you a better software developer or well-rounded person
+Codecademy - Learn Ruby
+Codecademy - Learn JavaScript
 
 ## Hobbies
 
