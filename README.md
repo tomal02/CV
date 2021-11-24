@@ -32,6 +32,20 @@ _Supermarket Assistant_
 - Maintained a loyal clientele through customer satisfaction and excellent customer service
 - Transitioned to nightshift to ensure store kept up in busy trading periods
 
+## Practical Skills
+
+### Thrive under pressure
+
+During my time managing my portfolio as a day/swing trader, I had to make split second decisions which would dictate whether or not I would take a trade. This taught me to manage my emotions, even when stakes were high, and to make calculated decisions and take the appropriate actions in the face of the outcome. One example of this is when I decided to take a measured stake in a company I had researched extensively, but unfortunately the next morning they had a negative press release published about them. This caused the stock to drop rather abruptly, and I had to decide whether or not to take the risk. After careful thought, I chose to reduce my position by half, in order to reduce my exposure - this paid off massively as the stock recovered and I ended up turning a profit.
+
+## Fast learner
+
+This was displayed throughout my time at Makers, but especially over the course of the final project Kusari. For this project I had to learn two new frameworks (React & Django) and become familiar with an entirely new language (Python). This was only possible due to the multiple times I had to learn new technologies and languages throughout my time at Makers.
+
+## Analytical thinker
+
+In my role as a day/swing trader, I had to make decisions based on technical analysis and market data. To accomplish this, I built my own indicators to use within my charting platform. I then used these indicators to visualise and analyse the various different data points, which I would then use to place the stock properly on a watchlist.
+
 ## Technical Skills
 
 - Languages: JavaScript/HTML/CSS, Ruby, SQL, Python, Java
