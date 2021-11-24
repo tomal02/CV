@@ -10,11 +10,11 @@ After studying Computer Science at Woking College I spent a year and a half mana
 
 ## Projects
 
-| Name             | Description                                                                                                                                                          | Tech/tools |
-| ---------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- | ---------- | ---------- | ------ | ----------------------------------- | --- |
-| **Kusari**       | Named after the Japanese word for 'chain', this full-stack blockchain application sets out to consolidate investors Cryptocurrency investments into one application. | React      | Django     | PostgreSQL | SCSS   | Multiple APIs to retrieve coin info |
-| **IOBook**       | Named to convey the nature of this programmer-centric social network, this was my first experience with Rails.                                                       | Rails      | Rspec      | OmniAuth   | Devise | PostgreSQL                          | CSS |
-| **Eternal Note** | Eternal Note (named for the endless list they appear on) was my first venture into JavaScript                                                                        | JavaScript | PostgreSQL | SCSS       |
+| Name             | Description                                                         | Tech/tools     |
+| ---------------- | ------------------------------------------------------------------- | -------------- |
+| **Kusari**       | Named after the Japanese word for 'chain', this full-stack blockchain application sets out to consolidate investors Cryptocurrency investments into one application. | React | Django | PostgreSQL | SCSS | Multiple APIs to retrieve coin info |
+| **IOBook**       | Named to convey the nature of this programmer-centric social network, this was my first experience with Rails.  | Rails | Rspec | OmniAuth | Devise | PostgreSQL | CSS |
+| **Eternal Note** | Eternal Note (named for the endless list they appear on) was my first venture into JavaScript | JavaScript | PostgreSQL | SCSS |
 
 ## Work Experience
 
