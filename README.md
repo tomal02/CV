@@ -1,20 +1,25 @@
 # CV
 
-## Tom Lee
+# Tom Lee
+
+## Who am I?
 
 Enthusiastic full-stack developer and tech enthusiast with a strong foundation in Ruby and JavaScript, keen to contribute to fulfilling projects and further my skillset in an ever-growing industry. Looking for a junior software developer role where I can grow and contribute.
 
+After studying Computer Science at Woking College I spent a year and a half managing a personal portfolio (very successfully) as a day/swing trader. After deciding that I still wanted to pursue a career in software development, I decided to take the leap and enrolled into Makers Academy, this allowed me to grow my previous knowledge exponentially.
+
 ## Projects
 
-| Name             | Description                                                         | Tech/tools     |
-| ---------------- | ------------------------------------------------------------------- | -------------- |
-| **Kusari**       | Named after the Japanese word for 'chain', this full-stack blockchain application sets out to consolidate investors Cryptocurrency investments into one application. | React | Django | PostgreSQL | SCSS | Multiple APIs to retrieve coin info |
-| **IOBook**       | Named to convey the nature of this programmer-centric social network, this was my first experience with Rails.  | Rails | Rspec | OmniAuth | Devise | PostgreSQL | CSS |
-| **Eternal Note** | Eternal Note (named for the endless list they appear on) was my first venture into JavaScript | JavaScript | PostgreSQL | SCSS |
+| Name             | Description                                                                                                                                                          | Tech/tools |
+| ---------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- | ---------- | ---------- | ------ | ----------------------------------- | --- |
+| **Kusari**       | Named after the Japanese word for 'chain', this full-stack blockchain application sets out to consolidate investors Cryptocurrency investments into one application. | React      | Django     | PostgreSQL | SCSS   | Multiple APIs to retrieve coin info |
+| **IOBook**       | Named to convey the nature of this programmer-centric social network, this was my first experience with Rails.                                                       | Rails      | Rspec      | OmniAuth   | Devise | PostgreSQL                          | CSS |
+| **Eternal Note** | Eternal Note (named for the endless list they appear on) was my first venture into JavaScript                                                                        | JavaScript | PostgreSQL | SCSS       |
 
 ## Work Experience
 
 **Day/Swing Trader**
+
 - Managed my own portfolio resulting in great ROI
 - Initiated trades based on a list of my own criteria, including technical indicators and risk:reward
 - Learnt to manage my emotions in regard to having large amounts of money at stake
