@@ -4,7 +4,7 @@
 
 ## Who am I?
 
-Enthusiastic full-stack developer and tech enthusiast with a strong foundation in Ruby and JavaScript, keen to contribute to fulfilling projects and further my skillset in an ever-growing industry. Looking for a junior software developer role where I can grow and contribute.
+I am an extremely passionate full-stack developer and tech enthusiast, dying to make my mark on the industry, so much so that I self-financed Makers Academy in order to achieve my vision. I have a strong foundation in Ruby and JavaScript, keen to contribute to fulfilling projects and further my skill set in an ever-growing industry. My background in trading gives strong problem solving backed with a great communicative mindset. Looking for a junior software developer role where I can grow and contribute.
 
 After studying Computer Science at Woking College I spent a year and a half managing a personal portfolio (very successfully) as a day/swing trader. After deciding that I still wanted to pursue a career in software development, I decided to take the leap and enrolled into Makers Academy, this allowed me to grow my previous knowledge exponentially.
 
