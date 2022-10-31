@@ -4,9 +4,9 @@
 
 ## Who am I?
 
-I am an extremely passionate full-stack developer and tech enthusiast, dying to make my mark on the industry, so much so that I self-financed Makers Academy in order to achieve my vision. I have a strong foundation in Ruby and JavaScript, keen to contribute to fulfilling projects and further my skill set in an ever-growing industry. My background in trading gives strong problem solving backed with a great communicative mindset. Looking for a junior software developer role where I can grow and contribute.
+I am an extremely passionate full-stack developer and tech enthusiast, dying to make my mark on the industry, so much so that I self-financed Makers Academy in order to achieve my vision. I have a strong knowledge of Javascript and its' frameworks (Express, React and Node) , Ruby & Rails, alongside a multitude of other tools. Looking for a software developer role where I can grow and contribute.
 
-After studying Computer Science at Woking College I spent a year and a half managing a personal portfolio (very successfully) as a day/swing trader. After deciding that I still wanted to pursue a career in software development, I decided to take the leap and enrolled into Makers Academy, this allowed me to grow my previous knowledge exponentially.
+After studying Computer Science at Woking College I spent a year and a half managing a personal portfolio (very successfully) as a day/swing trader. After deciding that I still wanted to pursue a career in software development, I decided to take the leap and enrolled into Makers Academy, this allowed me to grow my previous knowledge exponentially. From Makers, I successfully got my first position in the industry, at Miesh, and grew exponentially in my tenure there.
 
 ## Projects
 
@@ -17,6 +17,14 @@ After studying Computer Science at Woking College I spent a year and a half mana
 | **Eternal Note** | Eternal Note (named for the endless list they appear on) was my first venture into JavaScript | JavaScript | PostgreSQL | SCSS |
 
 ## Work Experience
+
+**Miesh** (February 2022 to October 2022)
+_Full Stack Developer_
+
+- Led creation and maintenance of CI/CD deployment workflow for all microservices & platform across Heroku and Digital Ocean
+- Created a frontend integration platform using MUI whilst following SAP styling guidelines, also created an accompanying backend microservice managing Mongo DB collections of user settings, layouts etc
+- Created an onboarding flow, using the MERN stack, which utilised progressive disclosure and featured a complete RESTful CRUD API
+- Built an e-learning platform featuring full user auth, course creation, video & article courses and completely responsive UI
 
 **Day/Swing Trader**
 
